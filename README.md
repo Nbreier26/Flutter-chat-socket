@@ -1,2 +1,3 @@
-# flutter-emotionr-google_mlkit_face_detection
-# Flutter-chat-socket
+# app_chat
+
+Chat App com WebSocket Backend
